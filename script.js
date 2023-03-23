@@ -139,7 +139,6 @@ function renderFunct(array, element) {
 
 
     });
-
 }
 renderFunct(films, elList)
 function sortGenr(array) {
